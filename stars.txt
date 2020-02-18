@@ -1,0 +1,6 @@
+Rama B 1 2.2 3.2
+Formalhaut A 10 -3.2 9
+Aldorus A 6 4.2 -9
+Nharl F .2 1.2 -20
+Ziost O 5 7.8 2
+Sun B -3 -9 -2
