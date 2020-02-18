@@ -21,6 +21,12 @@ int main(int argc, char* argv[]) {
     while (std::getline(f, line))
         coordinates.push_back(Coordinate(line));
     printCoordinates(coordinates);
+    Coordinate origo{0, 0, 0};
+    std::cout << "\nDistances from origo:\n";
+    for (auto c: coordinates) {
+        std::cout << c << ": " << c.distance(origo) << std::endl;
+    }
+    std::cout << "distance(c1, c1) must be zero: " << distance(coordinates[0], coordinates[0]) << std::endl;
 }
 
 
