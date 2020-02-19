@@ -37,6 +37,6 @@ int main(int argc, char* argv[]) {
     // TODO 
     //
     std::cout << "Stars sorted by their distance from the Sun\n";
-    Star Sun("Sun", 100, -100, 0);
+    Star Sun("Sun", "A", 100, -100, 0);
     // TODO 
 }
