@@ -11,11 +11,11 @@ int main(int argc, char* argv[]) {
         std::cerr << "Please provide a star resource file\n";
         return -1;
     }
-    std::vector<std::shared_ptr<Star>> stars;
+    std::vector<Star> stars;
     std::ifstream f(argv[1]);
     std::string line;
     while (std::getline(f, line))
-        stars.push_back(std::make_shared<Star>(line));
+        stars.push_back(Star(line));
     for (auto& s: stars) {
         std::cout << s << std::endl;
     }
