@@ -21,6 +21,7 @@ int main(int argc, char* argv[]) {
     while (std::getline(f, line))
         coordinates.push_back(Coordinate(line));
     printCoordinates(coordinates);
+    return 0;
 }
 
 
