@@ -2,7 +2,7 @@
 #define COORDINATE_H
 
 #include <string>
-#include <iostring>
+#include <iostream>
 
 class Coordinate {
 public:
