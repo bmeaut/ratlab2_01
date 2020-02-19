@@ -1,158 +1,158 @@
-Albaan	-38.35	-27.49	-48.96
-Alderaan_(New_Galactic_Empire)	-24.89	38.94	-39.73
-Anelsana	23.33	48.93	17.43
-Aquilae_(Aquilaean_system)	-36.28	10.49	-45.18
-Aria_Prime	-13.76	6.39	-17.93
-Aris	-28.14	-9.97	43.97
-Arthezia	-6.95	-6.6	-1.6
-Assorhan	47.62	1.35	46.23
-Bengely_Four	26.24	39.26	7.43
-Boothi_XII	-23.1	16.21	-21.64
-Chryselia	11.19	-7.87	10.49
-Cornwall	41.19	-4.45	-33.5
-Corrida	-5.55	41.17	40.43
-Cynestra	6.55	-29.83	-15.07
-Daxan_Beta	43.43	4.59	-43.48
-Dhandu	20.12	-32.42	29.18
-Edis_VII	-10.87	-31.27	-31.21
-Egips	-37.99	36.39	41.66
-Erinn	21.36	-8.54	-12.76
-Eshan	-9.23	-1.47	29.65
-Espinar	5.54	21.2	-40.5
-Espirion	28.04	41.11	25.57
-Etti_IV	32.08	34.87	-23.36
-Exigar	38.52	-30.09	2.91
-Exo	29.48	8.15	-7.5
-Farhava_Beta	27.82	-21.87	37.77
-Filata	4.9	-30.23	6.69
-Galtor_VI	47.35	-33.42	22.41
-Gamerong	-10.56	2.69	-33.43
-Geldoll	-21.77	7.51	-10.06
-Gelemeade	-27.4	-12.86	-49.34
-Geric_IV	14.4	-36.95	-28.2
-Giddea	-33.29	13.47	-21.1
-Granicus	47.78	-42.39	20.03
-Gwongdeen	-17.45	-5.08	-49.65
-Hapan_(planet)	-31.97	-12.35	-40.55
-Hasskyn	42.53	-45.15	10.86
-Helleguth	-4.85	41.27	-21.7
-Herrik	13.25	22.86	16.76
-Hyperion_(planet)	32.9	-24.15	7.86
-Insk	46.37	-35.83	-0.36
-Jaelen	5.85	4.91	-22.72
-Jashwa	14.23	34.01	34.38
-J'doytzin_III	-48.37	-39.29	-15.64
-Jeosyn	42.55	20.51	15.16
-Jereth_VI	-25.07	40.43	1.97
-Jocal_Four	40.06	-6.11	28.73
-Jondora	25.83	20.75	-26.43
-Kajim	-11.0	0.07	-25.73
-Kanzi	1.32	21.92	28.95
-Katiz_Xemir's_homeworld	36.93	25.76	42.44
-Kinzor	-45.83	-38.27	1.82
-Kiss	-33.78	31.29	38.13
-Klaptun_IV	-23.77	-16.01	-31.84
-Klonoid	4.64	-40.28	-15.98
-Korrilan_IV	27.64	12.41	45.96
-Kupoh	4.23	-26.13	24.39
-KX-112	-3.72	40.91	-43.11
-La'drach	-46.68	-6.77	-17.86
-Lanteeb	-41.68	10.58	2.35
-Lexus_Nine	-2.95	-26.82	-10.78
-Llewebum	-33.55	47.12	11.85
-Lokori	-47.63	41.27	19.47
-Lolet	-43.8	-1.98	-33.62
-Maateen	-12.64	-31.57	15.37
-Marriten	20.69	0.5	-15.7
-Moldour	19.66	-16.7	-47.56
-Monfreen	32.13	33.37	29.47
-Monsolar	-24.54	12.79	6.47
-Moorja	-24.98	46.7	34.33
-Morellia	-41.92	8.69	-30.76
-Neelanon	49.96	-41.21	-38.59
-Neskar	-46.89	-36.93	-36.71
-Nilrebmah_XIII	-45.28	27.89	19.01
-Noult	-13.38	-38.13	-14.99
-Nyriaan	-29.86	9.83	-33.18
-Ocahont	-36.12	16.29	-36.13
-Ogana_Major	8.23	-3.04	34.85
-Omereth	41.47	32.38	11.46
-Ophuchi	-33.73	23.79	26.67
-Ord_Mynock	-8.76	-36.02	-38.19
-Ordnandell	-17.16	8.14	16.42
-Orkana	-6.45	41.78	40.57
-Orra	3.72	-23.47	29.03
-Orto	17.47	-25.33	6.62
-Patagonia	34.91	18.96	25.7
-Paucris_Major	2.78	-49.4	-25.63
-Pavilion	-33.78	-5.76	-38.94
-Pedorian	-11.04	25.62	-45.53
-Peekoine	35.02	-30.58	31.81
-Pelicd	-42.4	23.65	-39.13
-Pendarr_III	-17.99	5.89	-14.52
-Philaxia	10.23	-7.1	24.69
-Planet_Dull	-1.64	26.2	0.84
-Polarca_VII	-32.49	-7.48	-49.3
-Pollillus	33.33	-18.43	31.33
-Promencius_Four	46.89	-31.49	-28.27
-Raddan	-40.67	-12.83	-8.03
-Rajtiri	8.63	37.35	-10.28
-Rango_Tan	-28.49	14.54	-30.76
-Remduba_II	19.71	-29.02	-32.32
-Ristal	-49.06	4.02	1.78
-Rokirex	18.96	-44.09	20.44
-Romossobar	-31.36	27.67	2.05
-Rumil	-44.39	-11.27	-2.05
-Rywin	48.9	-43.98	-10.92
-Safe_Home	-45.89	44.41	-13.66
-Sanjin	17.0	5.34	21.23
-Sanod	-41.74	45.9	-33.22
-Sarrish	-36.22	26.65	17.75
-Sedratis	47.43	40.19	20.57
-Seleann	-16.16	-11.45	45.65
-Seluket	-42.32	-8.23	-2.76
-Sennoa	18.06	-40.68	-4.84
-Shingra	35.34	-15.73	49.75
-Sicemon	-17.38	-31.59	-35.29
-Silunes	-13.76	21.81	46.93
-Skeressa	-24.85	47.35	-5.65
-Solstice_V	30.47	-16.22	-13.99
-Soum	-37.54	10.69	-3.06
-Stewjon	-44.68	-15.72	40.15
-Suba	-13.37	14.09	-46.38
-Takobo	-43.53	-3.12	43.94
-Talman_III	-8.41	45.44	25.78
-Tehar	-12.81	33.98	-5.28
-Tei-Untis	47.03	9.61	4.8
-Teklos	-8.43	33.55	20.66
-Temesher	-49.63	30.77	-15.47
-Tensor_IV	-38.85	38.02	-35.6
-Teralov	-14.38	32.89	19.94
-The_Graveyard_of_the_Dragons	-9.92	-23.09	17.55
-Tisheraan	15.38	-49.5	-39.86
-Tormin	-28.74	-42.68	-16.48
-Touksingal	-41.84	35.52	-11.07
-Trebold_Raynor's_homeworld	3.15	-21.18	-46.96
-Triffis	9.45	44.66	27.44
-Tyrias	-19.04	27.45	32.86
-Umax	-15.25	-8.83	34.69
-U-One	41.29	32.19	-45.59
-Uro	42.69	47.01	-29.13
-Useria	-15.28	-27.97	-21.24
-Ushruu	41.53	1.67	-22.83
-Utapau_(Kessil_system)	-38.79	41.76	41.27
-Valahari	-16.46	11.36	23.23
-Vald	14.88	-38.03	-4.63
-Varkana	-8.4	9.68	27.5
-Velusia	-14.49	36.47	36.65
-Veron	44.11	-36.94	19.71
-Verroth	43.26	-6.67	-18.99
-Vertseth	23.05	-7.74	12.16
-Vetine	-48.26	-29.36	-23.22
-Vorlag	-0.33	24.23	-34.96
-Waliar	-3.04	-45.52	20.58
-Whiforla_II	10.37	-19.61	-40.77
-Yaloris	22.63	-3.48	42.12
-Yoshiro	37.35	-18.15	-44.59
-Yout	-45.09	6.14	-30.46
-Zarak-Nine	-44.25	48.15	-38.84
+Albaan	-38.35	-27.49	-48.96	false	7950
+Alderaan_(New_Galactic_Empire)	-24.89	38.94	-39.73	true	5588
+Anelsana	23.33	48.93	17.43	false	3665
+Aquilae_(Aquilaean_system)	-36.28	10.49	-45.18	true	5476
+Aria_Prime	-13.76	6.39	-17.93	false	8540
+Aris	-28.14	-9.97	43.97	false	9269
+Arthezia	-6.95	-6.6	-1.6	false	1773
+Assorhan	47.62	1.35	46.23	false	1324
+Bengely_Four	26.24	39.26	7.43	false	6214
+Boothi_XII	-23.1	16.21	-21.64	true	2988
+Chryselia	11.19	-7.87	10.49	false	5605
+Cornwall	41.19	-4.45	-33.5	true	9489
+Corrida	-5.55	41.17	40.43	false	8807
+Cynestra	6.55	-29.83	-15.07	true	4215
+Daxan_Beta	43.43	4.59	-43.48	false	5228
+Dhandu	20.12	-32.42	29.18	true	5025
+Edis_VII	-10.87	-31.27	-31.21	true	9178
+Egips	-37.99	36.39	41.66	false	9144
+Erinn	21.36	-8.54	-12.76	false	5063
+Eshan	-9.23	-1.47	29.65	false	5702
+Espinar	5.54	21.2	-40.5	false	2507
+Espirion	28.04	41.11	25.57	false	5478
+Etti_IV	32.08	34.87	-23.36	true	6701
+Exigar	38.52	-30.09	2.91	true	3128
+Exo	29.48	8.15	-7.5	true	2433
+Farhava_Beta	27.82	-21.87	37.77	true	9797
+Filata	4.9	-30.23	6.69	false	9039
+Galtor_VI	47.35	-33.42	22.41	true	6174
+Gamerong	-10.56	2.69	-33.43	true	7497
+Geldoll	-21.77	7.51	-10.06	true	6039
+Gelemeade	-27.4	-12.86	-49.34	false	8886
+Geric_IV	14.4	-36.95	-28.2	true	8186
+Giddea	-33.29	13.47	-21.1	true	1076
+Granicus	47.78	-42.39	20.03	true	1063
+Gwongdeen	-17.45	-5.08	-49.65	true	917
+Hapan_(planet)	-31.97	-12.35	-40.55	false	7326
+Hasskyn	42.53	-45.15	10.86	true	3930
+Helleguth	-4.85	41.27	-21.7	false	860
+Herrik	13.25	22.86	16.76	false	9082
+Hyperion_(planet)	32.9	-24.15	7.86	false	4000
+Insk	46.37	-35.83	-0.36	false	9226
+Jaelen	5.85	4.91	-22.72	false	1711
+Jashwa	14.23	34.01	34.38	false	6881
+J'doytzin_III	-48.37	-39.29	-15.64	false	9184
+Jeosyn	42.55	20.51	15.16	false	6956
+Jereth_VI	-25.07	40.43	1.97	true	1901
+Jocal_Four	40.06	-6.11	28.73	false	5944
+Jondora	25.83	20.75	-26.43	true	8462
+Kajim	-11.0	0.07	-25.73	true	6890
+Kanzi	1.32	21.92	28.95	true	4548
+Katiz_Xemir's_homeworld	36.93	25.76	42.44	true	5861
+Kinzor	-45.83	-38.27	1.82	true	8262
+Kiss	-33.78	31.29	38.13	true	3227
+Klaptun_IV	-23.77	-16.01	-31.84	false	7698
+Klonoid	4.64	-40.28	-15.98	false	2616
+Korrilan_IV	27.64	12.41	45.96	true	5363
+Kupoh	4.23	-26.13	24.39	false	9872
+KX-112	-3.72	40.91	-43.11	false	1428
+La'drach	-46.68	-6.77	-17.86	true	4080
+Lanteeb	-41.68	10.58	2.35	true	8405
+Lexus_Nine	-2.95	-26.82	-10.78	false	7124
+Llewebum	-33.55	47.12	11.85	true	3709
+Lokori	-47.63	41.27	19.47	true	7488
+Lolet	-43.8	-1.98	-33.62	true	1354
+Maateen	-12.64	-31.57	15.37	true	9479
+Marriten	20.69	0.5	-15.7	true	4606
+Moldour	19.66	-16.7	-47.56	true	5456
+Monfreen	32.13	33.37	29.47	false	4269
+Monsolar	-24.54	12.79	6.47	true	5800
+Moorja	-24.98	46.7	34.33	false	6873
+Morellia	-41.92	8.69	-30.76	true	4211
+Neelanon	49.96	-41.21	-38.59	false	1032
+Neskar	-46.89	-36.93	-36.71	true	5394
+Nilrebmah_XIII	-45.28	27.89	19.01	false	9858
+Noult	-13.38	-38.13	-14.99	true	8128
+Nyriaan	-29.86	9.83	-33.18	false	4908
+Ocahont	-36.12	16.29	-36.13	false	8441
+Ogana_Major	8.23	-3.04	34.85	true	4477
+Omereth	41.47	32.38	11.46	false	7167
+Ophuchi	-33.73	23.79	26.67	false	3064
+Ord_Mynock	-8.76	-36.02	-38.19	true	5328
+Ordnandell	-17.16	8.14	16.42	true	5726
+Orkana	-6.45	41.78	40.57	false	7221
+Orra	3.72	-23.47	29.03	false	1516
+Orto	17.47	-25.33	6.62	true	7007
+Patagonia	34.91	18.96	25.7	true	2930
+Paucris_Major	2.78	-49.4	-25.63	false	6521
+Pavilion	-33.78	-5.76	-38.94	true	1133
+Pedorian	-11.04	25.62	-45.53	false	8917
+Peekoine	35.02	-30.58	31.81	false	1376
+Pelicd	-42.4	23.65	-39.13	false	2806
+Pendarr_III	-17.99	5.89	-14.52	true	5723
+Philaxia	10.23	-7.1	24.69	false	2557
+Planet_Dull	-1.64	26.2	0.84	false	6600
+Polarca_VII	-32.49	-7.48	-49.3	true	7701
+Pollillus	33.33	-18.43	31.33	false	4988
+Promencius_Four	46.89	-31.49	-28.27	true	9163
+Raddan	-40.67	-12.83	-8.03	false	5199
+Rajtiri	8.63	37.35	-10.28	false	9175
+Rango_Tan	-28.49	14.54	-30.76	false	7644
+Remduba_II	19.71	-29.02	-32.32	false	4325
+Ristal	-49.06	4.02	1.78	false	8857
+Rokirex	18.96	-44.09	20.44	false	798
+Romossobar	-31.36	27.67	2.05	true	3548
+Rumil	-44.39	-11.27	-2.05	false	8394
+Rywin	48.9	-43.98	-10.92	true	6394
+Safe_Home	-45.89	44.41	-13.66	true	747
+Sanjin	17.0	5.34	21.23	true	9093
+Sanod	-41.74	45.9	-33.22	false	758
+Sarrish	-36.22	26.65	17.75	false	9925
+Sedratis	47.43	40.19	20.57	false	2794
+Seleann	-16.16	-11.45	45.65	true	1422
+Seluket	-42.32	-8.23	-2.76	false	1637
+Sennoa	18.06	-40.68	-4.84	true	6579
+Shingra	35.34	-15.73	49.75	true	5317
+Sicemon	-17.38	-31.59	-35.29	true	7901
+Silunes	-13.76	21.81	46.93	false	2887
+Skeressa	-24.85	47.35	-5.65	false	9550
+Solstice_V	30.47	-16.22	-13.99	true	9308
+Soum	-37.54	10.69	-3.06	true	5627
+Stewjon	-44.68	-15.72	40.15	false	4564
+Suba	-13.37	14.09	-46.38	false	3682
+Takobo	-43.53	-3.12	43.94	false	9136
+Talman_III	-8.41	45.44	25.78	true	1782
+Tehar	-12.81	33.98	-5.28	true	6988
+Tei-Untis	47.03	9.61	4.8	true	6563
+Teklos	-8.43	33.55	20.66	false	6256
+Temesher	-49.63	30.77	-15.47	false	2418
+Tensor_IV	-38.85	38.02	-35.6	false	4165
+Teralov	-14.38	32.89	19.94	true	2804
+The_Graveyard_of_the_Dragons	-9.92	-23.09	17.55	false	6654
+Tisheraan	15.38	-49.5	-39.86	true	9747
+Tormin	-28.74	-42.68	-16.48	false	6115
+Touksingal	-41.84	35.52	-11.07	false	1394
+Trebold_Raynor's_homeworld	3.15	-21.18	-46.96	true	1876
+Triffis	9.45	44.66	27.44	true	1957
+Tyrias	-19.04	27.45	32.86	true	4090
+Umax	-15.25	-8.83	34.69	false	3639
+U-One	41.29	32.19	-45.59	false	7642
+Uro	42.69	47.01	-29.13	true	7502
+Useria	-15.28	-27.97	-21.24	false	4759
+Ushruu	41.53	1.67	-22.83	false	5933
+Utapau_(Kessil_system)	-38.79	41.76	41.27	true	6893
+Valahari	-16.46	11.36	23.23	false	7454
+Vald	14.88	-38.03	-4.63	false	2243
+Varkana	-8.4	9.68	27.5	true	4010
+Velusia	-14.49	36.47	36.65	false	2840
+Veron	44.11	-36.94	19.71	false	8516
+Verroth	43.26	-6.67	-18.99	false	4463
+Vertseth	23.05	-7.74	12.16	false	6300
+Vetine	-48.26	-29.36	-23.22	false	697
+Vorlag	-0.33	24.23	-34.96	true	6689
+Waliar	-3.04	-45.52	20.58	true	8134
+Whiforla_II	10.37	-19.61	-40.77	true	1579
+Yaloris	22.63	-3.48	42.12	false	9581
+Yoshiro	37.35	-18.15	-44.59	true	1539
+Yout	-45.09	6.14	-30.46	true	2774
+Zarak-Nine	-44.25	48.15	-38.84	true	5789
