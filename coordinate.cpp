@@ -1,5 +1,6 @@
 #include <sstream>
 #include <fstream>
+#include <cmath>
 
 #include "coordinate.h"
 
