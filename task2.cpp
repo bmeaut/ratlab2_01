@@ -26,7 +26,7 @@ int main(int argc, char* argv[]) {
     for (auto c: coordinates) {
         std::cout << c << ": " << c.distance(origo) << std::endl;
     }
-    std::cout << "distance(c1, c1) must be zero: " << distance(coordinates[0], coordinates[0]) << std::endl;
+    std::cout << "distance(c1, c1) must be zero: " << coordinates[0].distance(coordinates[0]) << std::endl;
 }
 
 
